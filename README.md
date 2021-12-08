@@ -1,6 +1,6 @@
 # bluetoothadapter
 
-A Flutter plugin to expose the features of Bluetooth Adapter for **Android only**.
+A Flutter plugin to expose the features of Bluetooth Adapter for **Android only**. This is a copy of the original flutter BT adapter but with null safety
 
 ## Objective
 
